@@ -6,4 +6,4 @@ El proyecte només consta un fitxer en format html, que conté els iframes embed
 
 Per executar-lo en local, només cal descarregar el fitxer html i obrir-lo amb qualsevol navegador web.
 
-La pàgina amb els gràfics també es troba disponible a la següent url: https://www.escoexpansion.com/cardiopaties.html
+La pàgina amb els gràfics es troba disponible a la següent url: https://dmt88.github.io/
